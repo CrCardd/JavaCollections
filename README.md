@@ -1,4 +1,4 @@
-## Pojeto final de Java (impossível)
+## Pojeto final de Java
 ### Feito por: @CrCardd, @juupurcino e @kau-menezes
 
 Você já viu na disciplina que Listas Encadeadas/Ligadas tem um problema ao queremos ler seus dados visto que temos  operações até encontrar o elemento 
